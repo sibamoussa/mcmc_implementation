@@ -1,0 +1,23 @@
+Things I still dont understand about MCMC 
+1) standard deviaition for the normal distribution
+2) random number generation: does this mean that any new number randomly generated will define the acceptance of the values? if so we have to pick a good random number?  
+3) read more into the probability density function
+
+
+
+Resources for the metropolis hastings algorithm:
+
+Interesting book:
+https://www.bayesrulesbook.com/chapter-7.html
+
+Some youtube videos:
+https://www.youtube.com/watch?v=Dzx5xNT79TI
+
+
+
+https://www.youtube.com/watch?v=0lpT-yveuIA
+https://www.youtube.com/watch?v=U561HGMWjcw
+
+
+Other resources
+https://stephens999.github.io/fiveMinuteStats/MH_intro.html

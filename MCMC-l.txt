@@ -1,0 +1,1 @@
+python gflownet.py --y gfndef.yml --workdir your-fav-working-dir

@@ -1,9 +1,9 @@
-#MCMC Implementation for the Double Well Potential
+# MCMC Implementation for the Double Well Potential
 
-##Intro
+## Intro
 For background information, go through the uploaded slideshow.
 
-##Summary
+## Summary
 This script containts the monte-carlo algorithm implemented for solving the double-well potential problem.
 
 ##Try it out!
